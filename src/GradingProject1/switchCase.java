@@ -1,4 +1,4 @@
-package chatGpt;
+package GradingProject1;
 
 import java.util.Scanner;
 
